@@ -1,0 +1,9 @@
+*
+!.ssh
+!.bashrc
+!.git-completion.bash
+!.git-flow-completion.bash
+!git-prompt.sh
+!.vimrc
+!README.md
+!Solarized Dark xterm-256color.terminal
